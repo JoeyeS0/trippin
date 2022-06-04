@@ -1,5 +1,11 @@
 # @roadiehq/backstage-plugin-buildkite
 
+## 2.0.4
+
+### Patch Changes
+
+- 65af1c0: Handle Buldkite Jobs with type of 'waiter'
+
 ## 2.0.3
 
 ### Patch Changes
